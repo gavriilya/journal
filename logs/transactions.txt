@@ -1,0 +1,51 @@
+SOLD  
+FROM  
+GET   
+OFF   
+SER   
+ACC   
+BUY   
+SELL  
+PROF  
+DIV   
+PAID  
+CMT   
+--- --- ---
+SOLD  
+FROM  
+GET   
+OFF   
+SER   
+ACC   
+BUY   
+SELL  
+PROF  
+DIV   
+PAID  
+CMT   
+--- --- ---
+SOLD  2024/07/29 08:59 MON
+FROM  W-BRO
+GET   7/26  BP
+OFF   7/27  500/450
+SER   F2MASS 80
+ACC   L
+BUY   325
+SELL  440
+PROF  115
+DIV   57.5:57.5
+PAID  WAIT
+CMT   
+--- --- ---
+SOLD  2024/07/06 20:00 SAT
+FROM  PAC
+GET   6/27  BP
+OFF   6/28  500/450
+SER   F2MASS 160
+ACC   L
+BUY   325
+SELL  450
+PROF  125
+DIV   50:75
+PAID  75(7/27)
+CMT   ML-1SURO HJ
